@@ -3,6 +3,8 @@ title: Git, Commands Cheat Sheet
 layout: default
 date: 2024-04-25 13:00:00 +800
 categories: Git
+math: true
+mermaid: true
 ---
 
 # Glossary 
