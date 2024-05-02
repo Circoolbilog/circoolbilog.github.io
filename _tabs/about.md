@@ -6,27 +6,31 @@ order: 4
 
 # About Clark Llarena
 
-Welcome to **Circool B-log**, your digital playground for tech, creativity, and everything in between!
+Welcome to **Circool B-log**
 
-Hey there! I'm Clark Llarena, but around these parts, you can call me Circool. Back in high school, Circool was born from a playful moment of linguistic mischief, when I deliberately mangled the pronunciation of "circle" with an exaggerated Bicol/Filipino accent. Little did I know that this whimsical creation would evolve into the moniker for my digital persona and the namesake of this blog.
+Hey there! I'm Clark Llarena I am the main person who maintains this website. I am a Computer Engineering graduate, and currently working on AI Research. I have a passion for continously learning whatever peaks my interests.
 
 ## What You'll Find Here
 
-At Circool B-log, we're all about embracing the diversity of human expression. From technical tutorials to introspective book reviews, from intricate lines of code to vibrant strokes of art, this is your sanctuary for exploration and inspiration. Here, the boundaries between technology and creativity blur, giving rise to a vibrant tapestry of innovation and imagination.
+Whatever I feel like really, it can range from technical tutorials, book reviews, my artwork, things that are going on with my life, and whatever peaks my interests. There might be posts by guests as well.
 
-## Why Circool B-log?
+## Why Circool B-log exists?
 
-Driven by a thirst for knowledge and a passion for self-expression, I embarked on the journey of creating Circool B-log. This digital haven is a reflection of my ever-evolving interests and passions, a space where I can bridge the gap between the analytical world of Computer Engineering and the boundless realms of art and literature.
+I have been stagnant for most of my early adult life, I feel like I'm not moving forward, this website is one of my outlets, something to keep me busy. I have to keep on learning, creating to move forward. This is a way for me to express my self as well as a window to my journey in life.This digital haven is a reflection of my ever-evolving interests and passions, a space where I can bridge the gap between the analytical world of Computer Engineering and the boundless realms of art and literature.
 
-## What Sets Us Apart
-
-What sets Circool B-log apart is its celebration of individuality and creativity. Here, we embrace the quirks and idiosyncrasies that make us unique, infusing every post with a dash of personality and playfulness. From the whimsical origins of our name to the eclectic mix of content, this blog is a testament to the beauty of diversity and self-expression.
 
 ## A Peek Into My World
 
-When I'm not diving into lines of code or losing myself in the pages of a good book, you can find me unleashing my creativity through art and music. As an avid artist, I'm excited to share glimpses of my journey through the gallery section of this blog, where each brush stroke tells a story of inspiration and expression.
+I used to spend most of my days rotting my brain on Youtube or Short form media, be it reels or shorts, I used to have tiktok as well but I uninstalled it just because of the fact that I am aware of how huge of a time sinkhole it is and yet I just fell into other short form media. After some self reflection, motivational videos, and reading some books, I decided to take some action. and one of those things is creating and maintaining this website.
 
-## Join the Journey
+I am proud to be somewhat decent in programming/coding, but I have very little to show for it, that is why I also plan to keep my github account active with whatever project intersts me. I also used to draw a lot but I've been stagnant in that field as well, same with my interest in music, and playing musical instruments. 
 
-Whether you're here to unravel the mysteries of technology, explore the depths of literature, or simply bask in the beauty of art and music, I invite you to join me on this journey of discovery and self-expression. Together, let's celebrate the infinite possibilities of human creativity and innovation.
+# What to Expect on Circool B-log
 
+- **Technical Posts**: Programming, software development, and emerging techs.
+- **Book Reviews**: Insightful reviews of various genres and authors.
+- **Life Updates**: Personal reflections and updates on the my journey.
+- **Guest Posts**: Diverse perspectives from guest contributors.
+- **Gallery**: Curated collections of insmypiring artwork.
+- **GitHub Projects**: Latest coding projects and contributions, from open-source to personal experiments.
+- **Music**: Exploration of music and musical instruments, blending tech and creativity.
