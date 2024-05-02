@@ -5,6 +5,7 @@ categories: Git
 author: Clark
 math: true
 mermaid: true
+comments: true
 ---
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
