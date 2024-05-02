@@ -4,6 +4,7 @@ date: 2024-04-22 7:00:00 +800
 categories: BioInformatics
 math: true
 mermaid: true
+author: clark
 ---
 
 # Basic ubuntu installation procedures
